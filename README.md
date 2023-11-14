@@ -22,3 +22,4 @@
 7. Number of Patients in Different age groups  visiting Emergency room
 8. HeatMap for showing percentage of patients visiting on different days of week at certain time
 9. Number of patients under different department in the hospitals
+10. Number of Patients of different race visiting the Emergency Room
