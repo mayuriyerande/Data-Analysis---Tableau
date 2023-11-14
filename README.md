@@ -9,7 +9,16 @@
 ### DASHBOARD 1 - EMERGENCY ROOM VISITS IN HOSPITALS (HEALTHCARE)
 <br>
 ![Screenshot (1100)](https://github.com/mayuriyerande/Data-Analysis-Tableau/assets/100609372/250727d4-fb5b-4c2e-98c8-22984b0accae)
+<br>
 ![Screenshot (1101)](https://github.com/mayuriyerande/Data-Analysis-Tableau/assets/100609372/da4467d2-e5e6-4405-916a-8471b57ebfdb)
 
 #### Insights discovered
-1.
+1. Total Number of Patients visiting Emergencry Room
+2. Percentage of Different genders visiting Emergencry Room
+3. Average Satisfaction of  Patients by the treatment - Helps the Hospital to improve themselves accordingly wherever they are lacking
+4. Average waittime for Patients - Helps the Hospital to understand where to speed up thier work and attend all the patients on time
+5. Patient Satisfaction Line graph
+6. Patient Waittime Line graph
+7. Number of Patients in Different age groups  visiting Emergency room
+8. HeatMap for showing percentage of patients visiting on different days of week at certain time
+9. Number of patients under different department in the hospitals
