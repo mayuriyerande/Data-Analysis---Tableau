@@ -6,7 +6,7 @@
 
 **Power BI** is a robust data analysis and visualization tool that empowers users to transform raw data into insightful visuals and reports with its user-friendly interface. Its seamless integration with diverse data sources ensures comprehensive analysis, while real-time updates and interactive dashboards facilitate timely decision-making. Power BI's strength in collaboration allows users to share reports and dashboards, promoting teamwork and collective understanding. Notably scalable, the tool accommodates large datasets and complex analyses, further enhanced by its integration with other Microsoft products. Power BI stands as a comprehensive solution, providing businesses with efficient and collaborative tools for data analysis and visualization within the broader Microsoft ecosystem.
 
-### DASHBOARD 1 - EMERGENCY ROOM VISITS IN HOSPITALS (HEALTHCARE)
+### Tableau DASHBOARD 1 - EMERGENCY ROOM VISITS IN HOSPITALS (HEALTHCARE)
 
 ![Screenshot (1100)](https://github.com/mayuriyerande/Data-Analysis-Tableau/assets/100609372/250727d4-fb5b-4c2e-98c8-22984b0accae)
 <br>
@@ -23,3 +23,17 @@
 8. HeatMap for showing percentage of patients visiting on different days of week at certain time
 9. Number of patients under different department in the hospitals
 10. Number of Patients of different race visiting the Emergency Room
+
+### Tableau DASHBOARD 2 - HOUSE SALES ANALYSIS (REAL ESTATE DOMAIN)
+
+![Screenshot (1102)](https://github.com/mayuriyerande/Data-Analysis-Dashboards/assets/100609372/e482ee02-1421-4035-b461-618931caa847)
+<br>
+![Screenshot (1104)](https://github.com/mayuriyerande/Data-Analysis-Dashboards/assets/100609372/2bf65001-4ab3-40da-afc3-3512ea206723)
+
+#### Insights discovered
+1. Filters based on Date, year built, square feet etc.
+2. Daily Average house price sales - Shows how much revenue has been gathered and tells us about the market
+3. Distribution of house prices - Shows the number of houses brought with different prices ranges which helps customer to analyse which house to buy
+4. View vs Condition Heatmap which helps customer analyse the view and condition of the house beforehand
+5. Distribution of Bedrooms
+6. Distrubution of Bathrooms
